@@ -39,6 +39,8 @@ python -m pip install lxml
 
 DOCX 脚注提取脚本依赖 `lxml`。`search_exact_quote.py` 只使用 Python 标准库。
 
+若通过 `icc-moot-memorial-writing` 使用本 skill，请同时安装后者；书状写作 skill 会按名称调用本 skill。
+
 ## 脚本
 
 ```powershell
