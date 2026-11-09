@@ -1,0 +1,7 @@
+interface:
+  display_name: "ICC Moot Footnote Verifier"
+  short_description: "ICC 书状脚注与引证核验、校正（书状写作工作流默认）"
+  default_prompt: "Use $icc-moot-footnote-verifier to verify every footnote in this ICC memorial against the primary source, fix confirmed citation errors, and return a verification report plus a revision log."
+
+policy:
+  allow_implicit_invocation: true

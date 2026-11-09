@@ -1,0 +1,4 @@
+interface:
+  display_name: "ICC 模拟法庭书状写作"
+  short_description: "ICC 模拟法庭书状写作、审校与脚注核验校正"
+  default_prompt: "使用 $icc-moot-memorial-writing，根据本次赛题、赛规和指定立场，完成我需要的书状写作或修改；交付前自动调用 $icc-moot-footnote-verifier 完成脚注核验与最小校正，并附核验报告和校正记录。"
